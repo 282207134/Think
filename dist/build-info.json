@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-27 (Asia/Tokyo)",
+  "flutter": "3.41.6",
+  "dart": "3.11.4",
+  "platform": "Android ARM64",
+  "mode": "release (local test signing)",
+  "screens": 120,
+  "bytes": 23182313,
+  "sha256": "976aef534e9b714c284b2f49c51fa5ae35b7518f89c7bf950f198f72f75d2fef"
+}
